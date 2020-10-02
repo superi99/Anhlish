@@ -40,7 +40,7 @@ public class OpenNLP {
                      .getResourceAsStream("/models/en-pos-maxent.bin");
              InputStream inputStreamChunker = OpenNLP.class
                      .getResourceAsStream("/models/en-chunker.bin");
-             InputStream is = Test.class.getResourceAsStream("/models/en-sent.bin")) {
+             InputStream is = OpenNLP.class.getResourceAsStream("/models/en-sent.bin")) {
 
             TokenizerModel model = new TokenizerModel(inputStream);
             tokenizerME = new TokenizerME(model);

@@ -40,31 +40,31 @@
 
         <!-- Stanford dependecies -->
 
-        <dependency>
+<!--        <dependency>-->
 
-            <groupId>edu.stanford.nlp</groupId>
+<!--            <groupId>edu.stanford.nlp</groupId>-->
 
-            <artifactId>stanford-corenlp</artifactId>
+<!--            <artifactId>stanford-corenlp</artifactId>-->
 
-            <version>${stanford.corenlp.version}</version>
+<!--            <version>${stanford.corenlp.version}</version>-->
 
-            <scope>compile</scope>
+<!--            <scope>compile</scope>-->
 
-        </dependency>
+<!--        </dependency>-->
 
-        <dependency>
+<!--        <dependency>-->
 
-            <groupId>edu.stanford.nlp</groupId>
+<!--            <groupId>edu.stanford.nlp</groupId>-->
 
-            <artifactId>stanford-corenlp</artifactId>
+<!--            <artifactId>stanford-corenlp</artifactId>-->
 
-            <classifier>models</classifier>
+<!--            <classifier>models</classifier>-->
 
-            <version>${stanford.corenlp.version}</version>
+<!--            <version>${stanford.corenlp.version}</version>-->
 
-            <scope>compile</scope>
+<!--            <scope>compile</scope>-->
 
-        </dependency>
+<!--        </dependency>-->
 
 
         <dependency>
